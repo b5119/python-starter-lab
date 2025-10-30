@@ -1,2 +1,2 @@
-# Python-Beginer-Proects
+# Python-Beginer-Proejcts
 Fun core fundmantal scripts
