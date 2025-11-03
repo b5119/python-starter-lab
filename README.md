@@ -72,7 +72,7 @@ Find and verify prime numbers with multiple search modes.
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-beginner-projects.git
+git clone https://github.com/b5119/python-beginner-projects.git
 cd python-beginner-projects
 ```
 
