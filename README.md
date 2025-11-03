@@ -133,7 +133,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Frank Bwalya - (https://github.com/b5119)
+Frank Bwalya - https://github.com/b5119
 
 ---
 
